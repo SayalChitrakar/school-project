@@ -1,0 +1,19 @@
+.navContainer{
+    background-color:#e74645;
+
+}
+.linkContainer{
+    justify-content: center;
+}
+.navbar-nav{
+
+    width: 400px;
+    justify-content: space-around;
+
+}
+.navContainer .navbar-brand{
+    color:#facd60
+}
+.navbar-light .navbar-nav .nav-link{
+    color:#fdfa66
+}
